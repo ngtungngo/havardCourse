@@ -3,10 +3,7 @@
 ## Git
 
 ### Commands
+  * clone a git repository: ```git clone <url> --> clone a git repository```
+  * create a new file with <name> as name: ``` touch <filename>```
+  * add a file to git: ```git add <fileName>```
 
-```
-  git clone <url> --> clone a git repository
-  touch <name>    --> create a new file with <name> as name
-  git add <fileName> --> 
-
-```
